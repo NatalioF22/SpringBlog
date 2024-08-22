@@ -1,1 +1,1 @@
-# SpringBlog
+# ChronicBlog
